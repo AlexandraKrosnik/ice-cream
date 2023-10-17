@@ -1,0 +1,23 @@
+/* BASE */
+@import './base/colors';
+@import './base/common';
+
+/* COMPONENTS */
+@import './layout/contacts';
+@import './components/button';
+@import './components/section';
+@import './components/modal-form';
+@import './components/form';
+@import './components/modal-location';
+@import './components/video';
+
+/* LAYOUT */
+@import './layout/header';
+@import './layout/hero';
+@import './layout/products';
+@import './layout/about';
+@import './layout/advantages';
+@import './layout/gallery';
+@import './layout/customer_reviews';
+@import './layout/footer';
+@import './layout/modal.scss';
